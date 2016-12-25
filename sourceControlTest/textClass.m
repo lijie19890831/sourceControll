@@ -19,7 +19,7 @@
 }
 - (void)sayHello
 {
-  
+    NSLog(@"hello");
 }
 - (void)sayByeBye
 {
