@@ -23,6 +23,7 @@
     
     
     NSLog(@"The result is: %d", a + b);
+    NSLog(@"The result is: %d", a - b);
 }
 
 
