@@ -17,6 +17,12 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    int a = 5;
+    int b = 10;
+    
+    
+    
+    NSLog(@"The result is: %d", a + b);
 }
 
 
