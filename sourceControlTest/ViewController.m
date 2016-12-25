@@ -20,8 +20,6 @@
     int a = 5;
     int b = 10;
     
-    
-    
     NSLog(@"The result is: %d", a + b);
 }
 
