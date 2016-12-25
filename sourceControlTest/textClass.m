@@ -9,5 +9,12 @@
 #import "textClass.h"
 
 @implementation textClass
-
+- (instancetype)init
+{
+    self = [super init];
+    if (self) {
+        
+    }
+    return self;
+}
 @end
