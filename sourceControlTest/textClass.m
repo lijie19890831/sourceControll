@@ -23,6 +23,6 @@
 }
 - (void)sayByeBye
 {
-  
+    NSLog(@"拜拜");
 }
 @end
